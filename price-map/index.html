@@ -1,7 +1,30 @@
-<head>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js">
-    </script><script src="./script.js"></script>
-</head>
-<body>
-<div id="myDiv"></div>
-</body>
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Housing Information</title>
+        <link rel="icon" href="https://twemoji.maxcdn.com/2/svg/1f3d8.svg">
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="./script.js"></script>
+        <!--<script src="./state.js"></script>-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-8">
+                <div id="country"></div>
+            </div>
+            <div class="col-4 py-4">
+                <button class="btn btn-outline-secondary" onclick="resetView()">Reset Country View</button>
+                <div id="summary">
+
+                </div>
+            </div>
+        </div>
+        <div class="px-4">
+            <p>Low-Income Housing: Government Subsized Low-Income Housing Projects </p>
+            <p>Data from <a href="https://www.huduser.gov/portal/datasets/assthsg.html">U.S. Dept of Housing</a></p>
+        </div>
+    </body>
+</html>

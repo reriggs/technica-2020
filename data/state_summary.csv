@@ -1,0 +1,56 @@
+Name,Code,Average Family Expenditure per month ($$),State
+AL Alabama,01,286,AL
+AK Alaska,02,528,AK
+AZ Arizona,04,332,AZ
+AR Arkansas,05,276,AR
+CA California,06,460,CA
+CO Colorado,08,345,CO
+CT Connecticut,09,406,CT
+DE Delaware,10,368,DE
+DC District of Columbia,11,390,DC
+FL Florida,12,358,FL
+GA Georgia,13,313,GA
+HI Hawaii,15,457,HI
+ID Idaho,16,340,ID
+IL Illinois,17,333,IL
+IN Indiana,18,288,IN
+IA Iowa,19,315,IA
+KS Kansas,20,300,KS
+KY Kentucky,21,276,KY
+LA Louisiana,22,302,LA
+ME Maine,23,357,ME
+MD Maryland,24,396,MD
+MA Massachusetts,25,415,MA
+MI Michigan,26,307,MI
+MN Minnesota,27,365,MN
+MS Mississippi,28,280,MS
+MO Missouri,29,293,MO
+MT Montana,30,301,MT
+NE Nebraska,31,329,NE
+NV Nevada,32,365,NV
+NH New Hampshire,33,407,NH
+NJ New Jersey,34,416,NJ
+NM New Mexico,35,289,NM
+NY New York,36,471,NY
+NC North Carolina,37,294,NC
+ND North Dakota,38,311,ND
+OH Ohio,39,273,OH
+OK Oklahoma,40,267,OK
+OR Oregon,41,364,OR
+PA Pennsylvania,42,337,PA
+RI Rhode Island,44,369,RI
+SC South Carolina,45,286,SC
+SD South Dakota,46,297,SD
+TN Tennessee,47,280,TN
+TX Texas,48,332,TX
+UT Utah,49,339,UT
+VT Vermont,50,381,VT
+VA Virginia,51,340,VA
+WA Washington,53,372,WA
+WV West Virginia,54,275,WV
+WI Wisconsin,55,337,WI
+WY Wyoming,56,314,WY
+GU Guam,66,308,GU
+MP Northern Mariana Islands,69,200,MP
+PR Puerto Rico,72,111,PR
+VI U.S. Virgin Islands,78,318,VI
